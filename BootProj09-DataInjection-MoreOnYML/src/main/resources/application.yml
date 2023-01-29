@@ -1,0 +1,37 @@
+emp:
+ info:
+ #simple properties
+  eno: 1001
+  ename: Ashok
+ 
+ #array properties
+  favColors: 
+     - red
+     - blue
+     - green
+ 
+ #List properties
+  nickNames:
+     - chinna
+     - munna
+     - kanna
+     
+ #set collection properties
+  phoneNumbers:
+     - 99999999
+     - 88888888
+     - 77777777
+ 
+ #map collection properties
+  idDetails:
+    aadhar: 834reuwj98329
+    voter: 4398ure
+    panNo: 493ureruwe
+  
+ #HAS-A property
+  company:
+   id: 4875
+   name: HCL
+   addrs: Hyd
+   size: 2000
+ 
